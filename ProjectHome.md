@@ -1,0 +1,1 @@
+The intention is to refactor the existing JTidy code base implementing full DOM level 3. I will also be putting a swing interface on top of it that will allow DOM manipulation. AKA you  can use it for cleaning up screen scraps.
